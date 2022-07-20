@@ -1,2 +1,2 @@
 Testing fetch command.
-Testing reset mixed.
+
