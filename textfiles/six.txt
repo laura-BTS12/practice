@@ -1,1 +1,2 @@
-Just making some modifications
+Just making some modifications. 
+Testing git add -A . command
